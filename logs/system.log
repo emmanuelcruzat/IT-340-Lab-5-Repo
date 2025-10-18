@@ -1,0 +1,144 @@
+- System Report -
+Uptime:
+ 14:11:52 up  8:15,  1 user,  load average: 0.11, 0.29, 0.26
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.8Gi       3.9Gi        85Mi       2.2Gi       6.0Gi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M  1.6M  793M   1% /run
+/dev/sda2        25G  5.6G   18G  24% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           795M  156K  795M   1% /run/user/1000
+-
+
+- System Report -
+Uptime:
+ 14:15:02 up  8:19,  1 user,  load average: 0.07, 0.19, 0.22
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.8Gi       3.9Gi        85Mi       2.2Gi       6.0Gi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M  1.6M  793M   1% /run
+/dev/sda2        25G  5.6G   18G  24% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           795M  156K  795M   1% /run/user/1000
+-
+
+- System Report -
+Uptime:
+ 14:16:02 up  8:20,  1 user,  load average: 0.02, 0.16, 0.20
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.8Gi       3.9Gi        85Mi       2.2Gi       5.9Gi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M  1.6M  793M   1% /run
+/dev/sda2        25G  5.6G   18G  24% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           795M  156K  795M   1% /run/user/1000
+-
+
+- System Report -
+Uptime:
+ 14:17:01 up  8:21,  1 user,  load average: 1.79, 0.58, 0.35
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.8Gi       3.8Gi        82Mi       2.2Gi       5.9Gi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M  1.6M  793M   1% /run
+/dev/sda2        25G  5.6G   18G  24% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           795M  156K  795M   1% /run/user/1000
+-
+
+- System Report -
+Uptime:
+ 14:18:01 up  8:22,  1 user,  load average: 0.69, 0.49, 0.33
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.8Gi       3.8Gi        84Mi       2.2Gi       5.9Gi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M  1.6M  793M   1% /run
+/dev/sda2        25G  5.6G   18G  24% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           795M  156K  795M   1% /run/user/1000
+-
+
+- System Report -
+Uptime:
+ 14:19:01 up  8:23,  1 user,  load average: 0.36, 0.43, 0.32
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.8Gi       3.8Gi        79Mi       2.2Gi       5.9Gi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M  1.6M  793M   1% /run
+/dev/sda2        25G  5.6G   18G  24% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           795M  156K  795M   1% /run/user/1000
+-
+
+- System Report -
+Uptime:
+ 14:20:02 up  8:24,  1 user,  load average: 0.21, 0.38, 0.30
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.8Gi       3.9Gi        79Mi       2.2Gi       5.9Gi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M  1.6M  793M   1% /run
+/dev/sda2        25G  5.6G   18G  24% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           795M  156K  795M   1% /run/user/1000
+-
+
+- System Report -
+Uptime:
+ 14:21:01 up  8:25,  1 user,  load average: 0.07, 0.31, 0.28
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.8Gi       3.9Gi        79Mi       2.2Gi       5.9Gi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M  1.6M  793M   1% /run
+/dev/sda2        25G  5.6G   18G  24% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           795M  156K  795M   1% /run/user/1000
+-
+
